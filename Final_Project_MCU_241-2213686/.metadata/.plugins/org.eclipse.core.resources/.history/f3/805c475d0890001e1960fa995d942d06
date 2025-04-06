@@ -1,0 +1,15 @@
+/*
+ * f_button.h
+ *
+ *  Created on: Nov 30, 2023
+ *      Author: Vy Nguyen
+ */
+
+#ifndef INC_F_BUTTON_H_
+#define INC_F_BUTTON_H_
+
+int isButtonPressed (int button);
+int isButtonLongPressed (int button);
+void getKeyInput();
+
+#endif /* INC_F_BUTTON_H_ */

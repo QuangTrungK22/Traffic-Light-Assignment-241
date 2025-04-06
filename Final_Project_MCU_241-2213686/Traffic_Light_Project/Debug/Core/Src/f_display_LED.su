@@ -1,0 +1,4 @@
+f_display_LED.c:14:6:fsmHorLeds	8	static
+f_display_LED.c:47:6:fsmVerLeds	8	static
+f_display_LED.c:80:6:displayLeds	8	static
+f_display_LED.c:125:6:resetLight	4	static
